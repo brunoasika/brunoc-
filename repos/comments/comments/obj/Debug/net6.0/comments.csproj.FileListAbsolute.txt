@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\comments\comments\obj\Debug\net6.0\comments.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\comments\comments\obj\Debug\net6.0\comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\comments\comments\obj\Debug\net6.0\comments.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\comments\comments\obj\Debug\net6.0\comments.AssemblyInfo.cs
+C:\Users\hp\source\repos\comments\comments\obj\Debug\net6.0\comments.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\comments\comments\bin\Debug\net6.0\comments.exe
+C:\Users\hp\source\repos\comments\comments\bin\Debug\net6.0\comments.deps.json
+C:\Users\hp\source\repos\comments\comments\bin\Debug\net6.0\comments.runtimeconfig.json
+C:\Users\hp\source\repos\comments\comments\bin\Debug\net6.0\comments.dll
+C:\Users\hp\source\repos\comments\comments\bin\Debug\net6.0\comments.pdb
+C:\Users\hp\source\repos\comments\comments\obj\Debug\net6.0\comments.dll
+C:\Users\hp\source\repos\comments\comments\obj\Debug\net6.0\refint\comments.dll
+C:\Users\hp\source\repos\comments\comments\obj\Debug\net6.0\comments.pdb
+C:\Users\hp\source\repos\comments\comments\obj\Debug\net6.0\comments.genruntimeconfig.cache
+C:\Users\hp\source\repos\comments\comments\obj\Debug\net6.0\ref\comments.dll

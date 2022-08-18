@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\builtindatatypes\builtindatatypes\obj\Debug\net6.0\builtindatatypes.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\builtindatatypes\builtindatatypes\obj\Debug\net6.0\builtindatatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\builtindatatypes\builtindatatypes\obj\Debug\net6.0\builtindatatypes.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\builtindatatypes\builtindatatypes\obj\Debug\net6.0\builtindatatypes.AssemblyInfo.cs
+C:\Users\hp\source\repos\builtindatatypes\builtindatatypes\obj\Debug\net6.0\builtindatatypes.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\builtindatatypes\builtindatatypes\bin\Debug\net6.0\builtindatatypes.exe
+C:\Users\hp\source\repos\builtindatatypes\builtindatatypes\bin\Debug\net6.0\builtindatatypes.deps.json
+C:\Users\hp\source\repos\builtindatatypes\builtindatatypes\bin\Debug\net6.0\builtindatatypes.runtimeconfig.json
+C:\Users\hp\source\repos\builtindatatypes\builtindatatypes\bin\Debug\net6.0\builtindatatypes.dll
+C:\Users\hp\source\repos\builtindatatypes\builtindatatypes\bin\Debug\net6.0\builtindatatypes.pdb
+C:\Users\hp\source\repos\builtindatatypes\builtindatatypes\obj\Debug\net6.0\builtindatatypes.dll
+C:\Users\hp\source\repos\builtindatatypes\builtindatatypes\obj\Debug\net6.0\refint\builtindatatypes.dll
+C:\Users\hp\source\repos\builtindatatypes\builtindatatypes\obj\Debug\net6.0\builtindatatypes.pdb
+C:\Users\hp\source\repos\builtindatatypes\builtindatatypes\obj\Debug\net6.0\builtindatatypes.genruntimeconfig.cache
+C:\Users\hp\source\repos\builtindatatypes\builtindatatypes\obj\Debug\net6.0\ref\builtindatatypes.dll

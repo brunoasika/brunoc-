@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\arraysincsharp\arraysincsharp\bin\Debug\net6.0\arraysincsharp.exe
+C:\Users\hp\source\repos\arraysincsharp\arraysincsharp\bin\Debug\net6.0\arraysincsharp.deps.json
+C:\Users\hp\source\repos\arraysincsharp\arraysincsharp\bin\Debug\net6.0\arraysincsharp.runtimeconfig.json
+C:\Users\hp\source\repos\arraysincsharp\arraysincsharp\bin\Debug\net6.0\arraysincsharp.dll
+C:\Users\hp\source\repos\arraysincsharp\arraysincsharp\bin\Debug\net6.0\arraysincsharp.pdb
+C:\Users\hp\source\repos\arraysincsharp\arraysincsharp\obj\Debug\net6.0\arraysincsharp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\arraysincsharp\arraysincsharp\obj\Debug\net6.0\arraysincsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\arraysincsharp\arraysincsharp\obj\Debug\net6.0\arraysincsharp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\arraysincsharp\arraysincsharp\obj\Debug\net6.0\arraysincsharp.AssemblyInfo.cs
+C:\Users\hp\source\repos\arraysincsharp\arraysincsharp\obj\Debug\net6.0\arraysincsharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\arraysincsharp\arraysincsharp\obj\Debug\net6.0\arraysincsharp.dll
+C:\Users\hp\source\repos\arraysincsharp\arraysincsharp\obj\Debug\net6.0\refint\arraysincsharp.dll
+C:\Users\hp\source\repos\arraysincsharp\arraysincsharp\obj\Debug\net6.0\arraysincsharp.pdb
+C:\Users\hp\source\repos\arraysincsharp\arraysincsharp\obj\Debug\net6.0\arraysincsharp.genruntimeconfig.cache
+C:\Users\hp\source\repos\arraysincsharp\arraysincsharp\obj\Debug\net6.0\ref\arraysincsharp.dll
