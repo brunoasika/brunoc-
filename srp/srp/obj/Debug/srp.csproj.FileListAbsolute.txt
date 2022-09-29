@@ -1,0 +1,3 @@
+C:\Users\hp\source\repos\srp\srp\obj\Debug\srp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\srp\srp\obj\Debug\srp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\srp\srp\obj\Debug\srp.csproj.CoreCompileInputs.cache
